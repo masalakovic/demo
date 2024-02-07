@@ -1,0 +1,112 @@
+{
+    "hdft": {
+        "footer": {
+            "template_filename": "layout_storefront-footer.mvc"
+        },
+        "header": {
+            "template_filename": "layout_storefront-header.mvc"
+        }
+    },
+    "seo_settings": {
+        "cat_lit": "category",
+        "cat_lit_choice": "category",
+        "plit_in_bc": 0,
+        "prod_lit": "product",
+        "prod_lit_choice": "product",
+        "sc_always": 0,
+        "sf_active": 0,
+        "sl_active": 0,
+        "sm_active": 1,
+        "suffix": "html",
+        "suffix_choice": "html",
+        "surlprefix": "https://demo.pcinet.com/",
+        "url_delim": "/",
+        "urlprefix": "https://demo.pcinet.com/"
+    },
+    "sequence": {
+        "sequence": [
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "59f2a6e784d3b3d150b820b0fa623a22",
+                "item": "flex",
+                "name": "Hero",
+                "param": "hero"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "92209fa7d8dcfbcd96f46bd5256e7f81",
+                "item": "flex",
+                "name": "Text Banner",
+                "param": "text-banner"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "e97f9a8f84486174529f7aae4746958d",
+                "item": "flex",
+                "name": "Six Across",
+                "param": "six-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "2b5ba6137bb17250b708434de2092330",
+                "item": "flex",
+                "name": "Two Across",
+                "param": "two-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "8cc83326ce599a009c9636750a77474f",
+                "item": "flex",
+                "name": "Hero 2",
+                "param": "hero-2"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "6afe55d9cbf6239557800c495e93142e",
+                "item": "flex",
+                "name": "Product Carousel",
+                "param": "product-carousel"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "3e184ecdfeb1822f3c90fc49c4c06d35",
+                "item": "flex",
+                "name": "Text Banner 2",
+                "param": "text-banner-2"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "b68fbaa083166d42a8b79ead9efa32fa",
+                "item": "flex",
+                "name": "Three Across",
+                "param": "three-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "8bde9aa968bbb43fa291ea31c16e2379",
+                "item": "flex",
+                "name": "Text Banner 3",
+                "param": "text-banner-3"
+            }
+        ],
+        "title": "Sequence"
+    }
+}

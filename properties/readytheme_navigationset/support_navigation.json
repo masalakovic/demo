@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "591bd7710e6cb35b6c4394d2d13e3253",
+            "link": "<a href=\"https://demo.pcinet.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://demo.pcinet.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "74c3f9f500bb866bb33dfa2cca5986d8",
+            "link": "<a href=\"https://demo.pcinet.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://demo.pcinet.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "96d9de37f77b8fed8500320744d358b1",
+            "link": "<a href=\"https://demo.pcinet.com/faqs.html\" target=\"_self\">Frequent Questions</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Frequent Questions",
+            "url": "https://demo.pcinet.com/faqs.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Support Pages Navigation"
+}

@@ -1,0 +1,187 @@
+{
+    "descrip": "This is the side navigation for all account pages.",
+    "items": [
+        {
+            "active": 1,
+            "id": "e825a36e71f595dd781e8b04941cdc35",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "00cb29de263d7aaf89e6a7f1ce486a33",
+                    "link": "<a href=\"https://demo.pcinet.com/customer-edit.html\" target=\"_self\">Edit Information</a>",
+                    "link_dest": "ACED",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Information",
+                    "url": "https://demo.pcinet.com/customer-edit.html"
+                },
+                {
+                    "active": 1,
+                    "id": "d4948acd1f833c2025dcfad8ea832984",
+                    "link": "<a href=\"https://demo.pcinet.com/change-email-address.html\" target=\"_self\">Change Email</a>",
+                    "link_dest": "CEML",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Change Email",
+                    "url": "https://demo.pcinet.com/change-email-address.html"
+                },
+                {
+                    "active": 1,
+                    "id": "776fde4f7b54f253f0865701c4b8b24d",
+                    "link": "<a href=\"https://demo.pcinet.com/change-password.html\" target=\"_self\">Change Password</a>",
+                    "link_dest": "CPWD",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Change Password",
+                    "url": "https://demo.pcinet.com/change-password.html"
+                }
+            ],
+            "link": "Personal Information",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Personal Information"
+        },
+        {
+            "active": 1,
+            "id": "b0fa948ff396b8816922ee18945eb7a5",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "fe902d0f4a9ad8f046e09b4796013a80",
+                    "link": "<a href=\"https://demo.pcinet.com/customer-payment-cards.html\" target=\"_self\">Edit Cards</a>",
+                    "link_dest": "CPCD",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Cards",
+                    "url": "https://demo.pcinet.com/customer-payment-cards.html"
+                },
+                {
+                    "active": 1,
+                    "id": "8596a842fd6f5fcd04fbd4564344c398",
+                    "link": "<a href=\"https://demo.pcinet.com/customer-payment-card-add.html\" target=\"_self\">Add New Card</a>",
+                    "link_dest": "CPCA",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Add New Card",
+                    "url": "https://demo.pcinet.com/customer-payment-card-add.html"
+                }
+            ],
+            "link": "Payment Options",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Payment Options"
+        },
+        {
+            "active": 1,
+            "id": "9b052bbef0afe718ce5e76e675c73657",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "7cc84c735dbbabbb26b10daaf2958a21",
+                    "link": "<a href=\"https://demo.pcinet.com/order-history-list.html\" target=\"_self\">Order History</a>",
+                    "link_dest": "ORDH",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Order History",
+                    "url": "https://demo.pcinet.com/order-history-list.html"
+                },
+                {
+                    "active": 1,
+                    "id": "75859f6ce023ae82ae0777947b55d52e",
+                    "link": "<a href=\"https://demo.pcinet.com/customer-subscriptions.html\" target=\"_self\">Manage Subscriptions</a>",
+                    "link_dest": "CSUB",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Manage Subscriptions",
+                    "url": "https://demo.pcinet.com/customer-subscriptions.html"
+                },
+                {
+                    "active": 1,
+                    "id": "ecb862d5ad31ef4e1f4b0bdad2d4e47c",
+                    "link": "<a href=\"https://demo.pcinet.com/wish-lists.html\" target=\"_self\">Wish Lists</a>",
+                    "link_dest": "WLST",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Wish Lists",
+                    "url": "https://demo.pcinet.com/wish-lists.html"
+                }
+            ],
+            "link": "My Orders",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "My Orders"
+        },
+        {
+            "active": 1,
+            "id": "92574053515f95a266b69a78d1589e07",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "2c43cee74e68876f862b4a43245a06e0",
+                    "link": "<a href=\"https://demo.pcinet.com/customer-account-balance.html\" target=\"_self\">Check Your Balance</a>",
+                    "link_dest": "ABAL",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Check Your Balance",
+                    "url": "https://demo.pcinet.com/customer-account-balance.html"
+                },
+                {
+                    "active": 1,
+                    "id": "d72dff1fb2120efcf6503fb27c1c729b",
+                    "link": "<a href=\"https://demo.pcinet.com/redeem-gift-certificate.html\" target=\"_self\">Redeem Gift Certificate</a>",
+                    "link_dest": "RGFT",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Redeem Gift Certificate",
+                    "url": "https://demo.pcinet.com/redeem-gift-certificate.html"
+                }
+            ],
+            "link": "Customer Credit",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Customer Credit"
+        },
+        {
+            "active": 1,
+            "id": "f22f46666c1c48b148d8fcb02d323f0f",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "08e0e56820d6133fa10f4ecbd106d6c4",
+                    "link": "<a href=\"https://demo.pcinet.com/customer-address-book.html\" target=\"_self\">Edit Addresses</a>",
+                    "link_dest": "CABK",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Addresses",
+                    "url": "https://demo.pcinet.com/customer-address-book.html"
+                },
+                {
+                    "active": 1,
+                    "id": "4e29580c859f4de7981ca369c68d9a20",
+                    "link": "<a href=\"https://demo.pcinet.com/customer-address-add.html\" target=\"_self\">Add New Address</a>",
+                    "link_dest": "CADA",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Add New Address",
+                    "url": "https://demo.pcinet.com/customer-address-add.html"
+                }
+            ],
+            "link": "Address Book",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Address Book"
+        },
+        {
+            "active": 0,
+            "id": "0eabc2e7b46d8e26096401c61eccce28",
+            "link": "<a href=\"https://demo.pcinet.com/affiliate-edit.html\" target=\"_self\">Affiliate Information</a>",
+            "link_dest": "AFED",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Affiliate Information",
+            "url": "https://demo.pcinet.com/affiliate-edit.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Account Page Navigation"
+}

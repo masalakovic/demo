@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "remote_key": "shadows-rt",
+    "ignore_unsynced_templates": false,
+    "ignore_unsynced_properties": false,
+    "branch_id": 22,
+    "branch_name": "MV-2544-add-shadows-rt",
+    "branch_key": "ade45887c4b0b1657988b3f100a6b085",
+    "branch_tags": []
+}

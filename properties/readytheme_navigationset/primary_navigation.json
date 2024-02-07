@@ -1,0 +1,120 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "3b0c7f7bdad3bb143f2efe51bf30730f",
+            "link": "<a href=\"https://demo.pcinet.com/our-catalog.html\" target=\"_self\">Shop All</a>",
+            "link_dest": "CTLG",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shop All",
+            "url": "https://demo.pcinet.com/our-catalog.html"
+        },
+        {
+            "active": 1,
+            "id": "68c16d24b388e031433619a59e5c5b5d",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "edcb1834c402c869df4d7fe8104d1041",
+                    "link": "<a href=\"https://demo.pcinet.com/sub-category-1.html\" target=\"_self\">Subcategory 1</a>",
+                    "link_dest": "sub-cat-1",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 1",
+                    "url": "https://demo.pcinet.com/sub-category-1.html"
+                },
+                {
+                    "active": 1,
+                    "id": "4f122751ec4b0ce282d29807db11593c",
+                    "link": "<a href=\"https://demo.pcinet.com/sub-category-2.html\" target=\"_self\">Subcategory 2</a>",
+                    "link_dest": "sub-cat-2",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 2",
+                    "url": "https://demo.pcinet.com/sub-category-2.html"
+                }
+            ],
+            "link": "<a href=\"https://demo.pcinet.com/category-1.html\" target=\"_self\">Category 1</a>",
+            "link_dest": "category_01",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 1",
+            "url": "https://demo.pcinet.com/category-1.html"
+        },
+        {
+            "active": 1,
+            "id": "ac3537b232a843cb189cc684150765ab",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "da01ffccda60da9970b61936fda8f797",
+                    "link": "<a href=\"https://demo.pcinet.com/sub-category-3.html\" target=\"_self\">Subcategory 3</a>",
+                    "link_dest": "sub-cat-3",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 3",
+                    "url": "https://demo.pcinet.com/sub-category-3.html"
+                },
+                {
+                    "active": 1,
+                    "id": "fca55c1f84a40c664c90d30da1213337",
+                    "link": "<a href=\"https://demo.pcinet.com/sub-category-4.html\" target=\"_self\">Subcategory 4</a>",
+                    "link_dest": "Sub-cat-4",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 4",
+                    "url": "https://demo.pcinet.com/sub-category-4.html"
+                }
+            ],
+            "link": "<a href=\"https://demo.pcinet.com/category-2.html\" target=\"_self\">Category 2</a>",
+            "link_dest": "category_02",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 2",
+            "url": "https://demo.pcinet.com/category-2.html"
+        },
+        {
+            "active": 1,
+            "id": "7b08aea716ddd05340b6cc62f16e086a",
+            "link": "<a href=\"https://demo.pcinet.com/category-3.html\" target=\"_self\">Category 3</a>",
+            "link_dest": "category_03",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 3",
+            "url": "https://demo.pcinet.com/category-3.html"
+        },
+        {
+            "active": 1,
+            "id": "f511b3e845995c16b680b336bb184315",
+            "link": "<a href=\"https://demo.pcinet.com/category-4.html\" target=\"_self\">Category 4</a>",
+            "link_dest": "category_04",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 4",
+            "url": "https://demo.pcinet.com/category-4.html"
+        },
+        {
+            "active": 1,
+            "id": "d94f40546ba689017f0184b9fcac29d2",
+            "link": "<a href=\"https://demo.pcinet.com/sale.html\" target=\"_self\">Sale</a>",
+            "link_dest": "sale",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Sale",
+            "url": "https://demo.pcinet.com/sale.html"
+        },
+        {
+            "active": 1,
+            "id": "062c7390aff58d823b5c80edf8cd0416",
+            "link": "<a href=\"https://demo.pcinet.com/featured-products.html\" target=\"_self\">Featured Products</a>",
+            "link_dest": "featured",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Featured Products",
+            "url": "https://demo.pcinet.com/featured-products.html"
+        }
+    ],
+    "layout": "H",
+    "name": "Primary Site Navigation Bar"
+}

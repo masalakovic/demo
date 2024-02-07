@@ -1,0 +1,14 @@
+{
+    "code": "mmx-hero",
+    "type": "L",
+    "branchless_filepath": "scripts/00000001/flex/mmx-hero/b25/themes/00000001/shadows/mmx/mmx-hero/scripts.js",
+    "is_global": false,
+    "active": false,
+    "attributes": [
+        {
+            "name": "type",
+            "value": "text/javascript"
+        }
+    ],
+    "linked_pages": []
+}

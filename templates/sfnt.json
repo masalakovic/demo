@@ -1,0 +1,178 @@
+{
+    "all_products": {
+        "b_height": 234,
+        "b_width": 234,
+        "button_add": 1,
+        "button_buy": 1,
+        "button_wish": 0,
+        "col_num": 2,
+        "constrain": "B",
+        "default_sort": "disp_order",
+        "displaydiscounts": 0,
+        "field_code": 1,
+        "field_desc": 0,
+        "field_name": 1,
+        "field_price": 1,
+        "field_sku": 0,
+        "format": "X",
+        "image": "T",
+        "imagemachine_enabled": 0,
+        "invmsg": "L",
+        "items_per_page_filter": 1,
+        "linkexcludecat": 1,
+        "mode": "ctgy",
+        "page_disp_count": 3,
+        "per_page": 10,
+        "predictdiscounts": 0,
+        "price": "base",
+        "reverse_default_disp_order": 0,
+        "sort_by": {
+            "best": 1,
+            "code": 0,
+            "name": 0,
+            "new": 1,
+            "old": 1,
+            "price": 1,
+            "relevance": 0,
+            "switch": 1,
+            "updated": 0
+        },
+        "template_filename": "sfnt-all_products.mvc"
+    },
+    "content": {
+        "advanced": 0,
+        "template_filename": "sfnt-content.mvc",
+        "template_id": 41
+    },
+    "hdft": {
+        "footer": {
+            "template_filename": "sfnt-footer.mvc",
+            "template_id": 40
+        },
+        "header": {
+            "template_filename": "sfnt-header.mvc",
+            "template_id": 39
+        }
+    },
+    "inline_css": {
+        "template_filename": "sfnt-inline_css.mvc"
+    },
+    "mvaffirm_aslowas": {
+        "learnmore_show": 1,
+        "page_type": "homepage"
+    },
+    "paypalcp_credit": {
+        "flex": {
+            "color": "black",
+            "ratio": "20x1"
+        },
+        "layout": "flex",
+        "placement": "home",
+        "text": {
+            "color": "black",
+            "logo": "primary",
+            "position": "left"
+        }
+    },
+    "seo_settings": {
+        "cat_lit": "category",
+        "cat_lit_choice": "category",
+        "plit_in_bc": 0,
+        "prod_lit": "product",
+        "prod_lit_choice": "product",
+        "sc_always": 0,
+        "sf_active": 0,
+        "sl_active": 0,
+        "sm_active": 1,
+        "suffix": "html",
+        "suffix_choice": "html",
+        "url_delim": "/",
+        "urlprefix": "http://demo.pcinet.com/"
+    },
+    "sequence": {
+        "sequence": [
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "d778807f3ece8eca8e191a8da001de78",
+                "item": "flex",
+                "name": "Hero",
+                "param": "hero"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "f259981eb6d690848db56ba6085f553e",
+                "item": "flex",
+                "name": "Text Banner",
+                "param": "text-banner"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "219c6104d7efa5f07d92da676fa3f930",
+                "item": "flex",
+                "name": "Six Across",
+                "param": "six-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "53d1aecd813b016ab4c114bdaec1d29b",
+                "item": "flex",
+                "name": "Two Across",
+                "param": "two-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "bba0033512a3146f30ec7fa1f47c2207",
+                "item": "flex",
+                "name": "Hero 2",
+                "param": "hero-2"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "beac8159875827ca25ad5ca63a00bee9",
+                "item": "flex",
+                "name": "Product Carousel",
+                "param": "product-carousel"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "0d05ac79539f8e94509a13839d302887",
+                "item": "flex",
+                "name": "Text Banner 2",
+                "param": "text-banner-2"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "48e9c6603e8195ff3873d87b17967a32",
+                "item": "flex",
+                "name": "Three Across",
+                "param": "three-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "b0153e4dc8cb1cbf45f9cb07da51e147",
+                "item": "flex",
+                "name": "Text Banner 3",
+                "param": "text-banner-3"
+            }
+        ],
+        "title": "Sequence"
+    }
+}

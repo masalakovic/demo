@@ -1,0 +1,96 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "12bc7cbc63ceca5112c211ba938a0db7",
+            "link": "<a href=\"https://demo.pcinet.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://demo.pcinet.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "ce68552dda5506d7ef037547b9c47307",
+            "link": "<a href=\"https://demo.pcinet.com/customer-account.html\" target=\"_self\">Account</a>",
+            "link_dest": "ACLN",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Account",
+            "url": "https://demo.pcinet.com/customer-account.html"
+        },
+        {
+            "active": 1,
+            "id": "0a8d994f49b989cfc76610df32707286",
+            "link": "<a href=\"https://demo.pcinet.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://demo.pcinet.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "894bb8cb1ea65cf96633068ae356ff7a",
+            "link": "<a href=\"https://demo.pcinet.com/faqs.html\" target=\"_self\">FAQS</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "FAQS",
+            "url": "https://demo.pcinet.com/faqs.html"
+        },
+        {
+            "active": 1,
+            "id": "962fcf7d27ce0cbcd725096834fc16c2",
+            "link": "<a href=\"https://demo.pcinet.com/order-history-list.html\" target=\"_self\">Order Status</a>",
+            "link_dest": "ORDH",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Order Status",
+            "url": "https://demo.pcinet.com/order-history-list.html"
+        },
+        {
+            "active": 1,
+            "id": "621e7a726f6d4e655957b05fac5e6be5",
+            "link": "<a href=\"https://demo.pcinet.com/wish-lists.html\" target=\"_self\">Wish Lists</a>",
+            "link_dest": "WLST",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Wish Lists",
+            "url": "https://demo.pcinet.com/wish-lists.html"
+        },
+        {
+            "active": 1,
+            "id": "8b8fadd482494d69a464ebe6cc0430b7",
+            "link": "<a href=\"https://demo.pcinet.com/privacy-policy.html\" target=\"_self\">Privacy Policy</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Policy",
+            "url": "https://demo.pcinet.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "937ccffee80180ea0bc7d3fa1999ddc0",
+            "link": "<a href=\"https://demo.pcinet.com/shipping-and-return-policy.html\" target=\"_self\">Shipping &amp;amp; Returns</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping &amp; Returns",
+            "url": "https://demo.pcinet.com/shipping-and-return-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "ed1e38b64cddaa4d64f4538440ad6739",
+            "link": "<a href=\"https://demo.pcinet.com/sitemap.html\" target=\"_self\">Site Map</a>",
+            "link_dest": "SMAP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Site Map",
+            "url": "https://demo.pcinet.com/sitemap.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Footer Quick Links"
+}

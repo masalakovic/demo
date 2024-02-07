@@ -1,0 +1,41 @@
+{
+    "hdft": {
+        "footer": {
+            "template_filename": "prpo-footer.mvc",
+            "template_id": 207
+        },
+        "header": {
+            "template_filename": "prpo-header.mvc",
+            "template_id": 206
+        }
+    },
+    "seo_settings": {
+        "cat_lit": "category",
+        "cat_lit_choice": "category",
+        "plit_in_bc": 0,
+        "prod_lit": "product",
+        "prod_lit_choice": "product",
+        "sc_always": 0,
+        "sf_active": 0,
+        "sl_active": 0,
+        "sm_active": 1,
+        "suffix": "html",
+        "suffix_choice": "html",
+        "url_delim": "/",
+        "urlprefix": "http://demo.pcinet.com/"
+    },
+    "sequence": {
+        "sequence": [
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "52a749489fb0da3b46b4f8fa1b998d7a",
+                "item": "flex",
+                "name": "Content",
+                "param": "content"
+            }
+        ],
+        "title": "Sequence"
+    }
+}

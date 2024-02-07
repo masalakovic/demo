@@ -1,0 +1,13 @@
+{
+    "code": "head_tag",
+    "linked_js_resources": [
+        "GTM-head-tag",
+        "GTM-dataLayer",
+        "runtimecombofacets",
+        "mailchimp"
+    ],
+    "linked_css_resources": [
+        "square-payment",
+        "edit-basket-attributes"
+    ]
+}

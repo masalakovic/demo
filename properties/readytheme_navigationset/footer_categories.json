@@ -1,0 +1,66 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "ccf2e8bdbf28bf018d1ad1698137ef76",
+            "link": "<a href=\"https://demo.pcinet.com/category-1.html\" target=\"_self\">Category 1</a>",
+            "link_dest": "category_01",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 1",
+            "url": "https://demo.pcinet.com/category-1.html"
+        },
+        {
+            "active": 1,
+            "id": "a4b4800bc2c719ce04f49efc316ba7af",
+            "link": "<a href=\"https://demo.pcinet.com/category-2.html\" target=\"_self\">Category 2</a>",
+            "link_dest": "category_02",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 2",
+            "url": "https://demo.pcinet.com/category-2.html"
+        },
+        {
+            "active": 1,
+            "id": "86bac09c6006075baab73889c6c93070",
+            "link": "<a href=\"https://demo.pcinet.com/category-3.html\" target=\"_self\">Category 3</a>",
+            "link_dest": "category_03",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 3",
+            "url": "https://demo.pcinet.com/category-3.html"
+        },
+        {
+            "active": 1,
+            "id": "85ed9522cdbd08c933502031f49f6bbc",
+            "link": "<a href=\"https://demo.pcinet.com/category-4.html\" target=\"_self\">Category 4</a>",
+            "link_dest": "category_04",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 4",
+            "url": "https://demo.pcinet.com/category-4.html"
+        },
+        {
+            "active": 1,
+            "id": "2c97b9c91aa61a5e56b36a1739bd5932",
+            "link": "<a href=\"https://demo.pcinet.com/sale.html\" target=\"_self\">Sale</a>",
+            "link_dest": "sale",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Sale",
+            "url": "https://demo.pcinet.com/sale.html"
+        },
+        {
+            "active": 1,
+            "id": "ea6844b760e8a2bfa4b57ed9707c622e",
+            "link": "<a href=\"https://demo.pcinet.com/featured-products.html\" target=\"_self\">Featured Products</a>",
+            "link_dest": "featured",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Featured Products",
+            "url": "https://demo.pcinet.com/featured-products.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Footer Category Menu"
+}

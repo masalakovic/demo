@@ -1,0 +1,96 @@
+{
+    "basket": {
+        "advanced": 0,
+        "applycoupons": 0,
+        "b_height": 75,
+        "b_width": 75,
+        "button_wish": 1,
+        "constrain": "B",
+        "discounts": 1,
+        "groups": 1,
+        "handling": 0,
+        "lineitemcoupons": 0,
+        "lineitemdiscounts": 1,
+        "lineitemprice": "base",
+        "redeemgiftcerts": 0,
+        "salestax": 0,
+        "shipping": 0,
+        "splitpayments": 0,
+        "template_filename": "abus-basket.mvc"
+    },
+    "hdft": {
+        "footer": {
+            "template_filename": "abus-footer.mvc",
+            "template_id": 198
+        },
+        "header": {
+            "template_filename": "abus-header.mvc",
+            "template_id": 197
+        }
+    },
+    "seo_settings": {
+        "cat_lit": "category",
+        "cat_lit_choice": "category",
+        "plit_in_bc": 0,
+        "prod_lit": "product",
+        "prod_lit_choice": "product",
+        "sc_always": 0,
+        "sf_active": 0,
+        "sl_active": 0,
+        "sm_active": 1,
+        "suffix": "html",
+        "suffix_choice": "html",
+        "url_delim": "/",
+        "urlprefix": "http://demo.pcinet.com/"
+    },
+    "sequence": {
+        "sequence": [
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "61c567542d63fc6488bfdfdf7522f98f",
+                "item": "flex",
+                "name": "One Across",
+                "param": "one-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "b1a9ceac2523e76e19e8013181bf0ac2",
+                "item": "flex",
+                "name": "Text Area",
+                "param": "text-area"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "e2f997517b37dfba380acbd0aa7536db",
+                "item": "flex",
+                "name": "Image and Text",
+                "param": "image-and-text"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "68e4a0f97d0eb2d436a46da70839898c",
+                "item": "flex",
+                "name": "Image and Text 2",
+                "param": "image-and-text-2"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "4b90d8609647d3752d5af75137fd5b2c",
+                "item": "flex",
+                "name": "Text Area 2",
+                "param": "text-area-2"
+            }
+        ],
+        "title": "Sequence"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "hdft": {
+        "footer": {
+            "template_filename": "layout_landing_page_2-footer.mvc"
+        },
+        "header": {
+            "template_filename": "layout_landing_page_2-header.mvc"
+        }
+    },
+    "seo_settings": {
+        "cat_lit": "category",
+        "cat_lit_choice": "category",
+        "plit_in_bc": 0,
+        "prod_lit": "product",
+        "prod_lit_choice": "product",
+        "sc_always": 0,
+        "sf_active": 0,
+        "sl_active": 0,
+        "sm_active": 1,
+        "suffix": "html",
+        "suffix_choice": "html",
+        "surlprefix": "https://demo.pcinet.com/",
+        "url_delim": "/",
+        "urlprefix": "https://demo.pcinet.com/"
+    },
+    "sequence": {
+        "sequence": [
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "7dacf1f9770250e083bffc69a23e8c92",
+                "item": "flex",
+                "name": "Hero",
+                "param": "hero"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "fb2d38ed03ff84f3aea99f17418bbb55",
+                "item": "flex",
+                "name": "Two Across",
+                "param": "two-across"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "dc6fbe3fa779af49a7a28b7c4eb375d4",
+                "item": "flex",
+                "name": "Text Banner",
+                "param": "text-banner"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "f6508985e33f8541cf4aa19b4b7acacb",
+                "item": "flex",
+                "name": "Featured Product",
+                "param": "featured-product"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "d0608a664f1fdcc10524a14663dbc61c",
+                "item": "flex",
+                "name": "Video",
+                "param": "video"
+            },
+            {
+                "dt_end": 0,
+                "dt_start": 0,
+                "enabled": 1,
+                "id": "a224693701f90aee0ad20ec5e0e0a14c",
+                "item": "flex",
+                "name": "Image and Text",
+                "param": "image-and-text"
+            }
+        ],
+        "title": "Sequence"
+    }
+}
